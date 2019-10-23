@@ -1,4 +1,7 @@
 # DCU-Redbrick-Mixer
+
+# This has been deprecated since Redbrick now generate HTML emails. :-) 
+
 Formats the weekly Redbrick newsletters into a format suitable for the redbrick.dcu.ie website.
 
 Very straightforward to use. Test and result examples given. 
